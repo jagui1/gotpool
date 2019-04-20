@@ -1,3 +1,16 @@
-<p>
-  scoreboard works!
-</p>
+<p-table [value]="users" sortField="score" sortOrder="-1">
+  <ng-template pTemplate="header">
+       <tr>
+           <th>Name</th>
+           <th>Current Score</th>
+           <th>Previous Week</th>
+       </tr>
+   </ng-template>
+   <ng-template pTemplate="body" let-user>
+       <tr class="body">
+           <td><a routerLink="/details/{{ user.name }}">{{ user.name }}</a></td>
+           <td>{{ user.score }}</td>
+           <td>{{ calcScore(user.entry, week-1)}}</td>
+       </tr>
+   </ng-template>
+</p-table>

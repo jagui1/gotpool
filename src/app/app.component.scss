@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+
+    a {
+        color: rgb(255, 255, 255);
+    }
+
+}
+.hero-image {
+    background-image: url("../assets/images/GoT-Banner.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+  }
