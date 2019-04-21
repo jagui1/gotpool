@@ -1,11 +1,11 @@
 {
-    "name": "Armon",
+    "name": "Kushi",
     "score": 0,
     "entry": {
         "throne": {
-            "name": "Jon Snow",
+            "name": "Daenerys Targaryen",
             "label": "Who ends up on the Iron Throne?",
-            "answer": "Jon"
+            "answer": "Daenerys"
         },
         "characters": [
             {
@@ -47,13 +47,13 @@
             {
                 "name": "daenerys",
                 "label": "Daenerys Targaryen",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "davos",
                 "label": "Davos Seaworth",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -78,12 +78,12 @@
                 "name": "gregor",
                 "label": "Gregor 'The Mountain' Clegane",
                 "status": "dead",
-                "walker": true
+                "walker": false
             },
             {
                 "name": "grey",
                 "label": "Grey Worm",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -95,14 +95,14 @@
             {
                 "name": "jon",
                 "label": "Jon Snow",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "jorah",
                 "label": "Jorah Mormont",
-                "status": "dead",
-                "walker": true
+                "status": "alive",
+                "walker": false
             },
             {
                 "name": "melisandre",
@@ -167,13 +167,13 @@
             {
                 "name": "tormund",
                 "label": "Tormund Giantsbane",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "tyrion",
                 "label": "Tyrion Lannister",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -197,13 +197,13 @@
             {
                 "name": "qyburn",
                 "label": "Qyburn",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "dolorous",
                 "label": "Dolorous Edd",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -245,7 +245,7 @@
             {
                 "name": "rhaegal",
                 "label": "Rhaegal (Dany's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -254,7 +254,6 @@
                 "status": "dead",
                 "walker": false
             }
-    
         ],
         "questions": [
             {
@@ -263,35 +262,35 @@
                 "answer": "Jon"
             },
             {
-                "name": "Yes",
+                "name": "yes",
                 "label": "Is Bran the Night King?",
                 "answer": "Yes"
             },
             {
-                "name": "No",
+                "name": "yes",
                 "label": "Will Daenerys give birth?",
-                "answer": "No"
+                "answer": "Yes"
             },
             {
-                "name": "No",
+                "name": "no",
                 "label": "Will Cersei give birth?",
                 "answer": "No"
             },
             {
-                "name": "No",
+                "name": "yes",
                 "label": "Will Arya kill Cersei?",
-                "answer": "No"
+                "answer": "Yes"
             },
             {
-                "name": "Yes",
+                "name": "yes",
                 "label": "Will the Cleganebowl happen?",
                 "answer": "Yes"
             },
             {
-                "name": "Sandor \"The Hound\" Clegane",
+                "name": "The Hound",
                 "label": "Who wins the Cleganebowl?",
                 "answer": "Hound"
             }
         ]
     }
-  }
+}

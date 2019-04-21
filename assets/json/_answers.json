@@ -1,5 +1,6 @@
 [
     {
+        "throne": "Cersei",
         "characters": [
             {
                 "name": "arya",
@@ -250,11 +251,6 @@
     
         ],
         "questions": [
-            {
-                "name": "throne",
-                "label": "Who ends up on the Iron Throne?",
-                "answer": "Cersei"
-            },
             {
                 "name": "killNight",
                 "label": "Who kills the Night King?",
@@ -293,6 +289,7 @@
         ]
     },
     {
+        "throne": "Cersei",
         "characters": [
             {
                 "name": "arya",
@@ -543,11 +540,6 @@
     
         ],
         "questions": [
-            {
-                "name": "throne",
-                "label": "Who ends up on the Iron Throne?",
-                "answer": "Cersei"
-            },
             {
                 "name": "killNight",
                 "label": "Who kills the Night King?",

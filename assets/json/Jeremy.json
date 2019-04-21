@@ -2,6 +2,11 @@
     "name": "Jeremy",
     "score": 0,
     "entry": {
+        "throne": {
+            "name": "Throne Destroyed or Throne Vacant",
+            "label": "Who ends up on the Iron Throne?",
+            "answer": "No character"
+        },
         "characters": [
             {
                 "name": "arya",
@@ -253,42 +258,37 @@
         ],
         "questions": [
             {
-                "name": "throne",
-                "label": "Who ends up on the Iron Throne?",
-                "answer": "No character"
-            },
-            {
-                "name": "killNight",
+                "name": "Drogon",
                 "label": "Who kills the Night King?",
                 "answer": "Drogon"
             },
             {
-                "name": "branKing",
+                "name": "No",
                 "label": "Is Bran the Night King?",
                 "answer": "No"
             },
             {
-                "name": "danyBirth",
+                "name": "No",
                 "label": "Will Daenerys give birth?",
                 "answer": "No"
             },
             {
-                "name": "cerseiBirth",
+                "name": "No",
                 "label": "Will Cersei give birth?",
                 "answer": "No"
             },
             {
-                "name": "aryaKillC",
+                "name": "Yes",
                 "label": "Will Arya kill Cersei?",
                 "answer": "Yes"
             },
             {
-                "name": "cleganebowl",
+                "name": "Yes",
                 "label": "Will the Cleganebowl happen?",
                 "answer": "Yes"
             },
             {
-                "name": "cbowlWinner",
+                "name": "Hound",
                 "label": "Who wins the Cleganebowl?",
                 "answer": "Hound"
             }

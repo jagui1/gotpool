@@ -1,11 +1,11 @@
 {
-    "name": "Armon",
+    "name": "Jai",
     "score": 0,
     "entry": {
         "throne": {
-            "name": "Jon Snow",
+            "name": "Throne gets destroyed",
             "label": "Who ends up on the Iron Throne?",
-            "answer": "Jon"
+            "answer": "No character"
         },
         "characters": [
             {
@@ -17,7 +17,7 @@
             {
                 "name": "beric",
                 "label": "Beric Dondarrion",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -42,12 +42,12 @@
                 "name": "cersei",
                 "label": "Cersei Lannister",
                 "status": "dead",
-                "walker": false
+                "walker": true
             },
             {
                 "name": "daenerys",
                 "label": "Daenerys Targaryen",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -78,7 +78,7 @@
                 "name": "gregor",
                 "label": "Gregor 'The Mountain' Clegane",
                 "status": "dead",
-                "walker": true
+                "walker": false
             },
             {
                 "name": "grey",
@@ -89,7 +89,7 @@
             {
                 "name": "jaime",
                 "label": "Jaime Lannister",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -101,13 +101,13 @@
             {
                 "name": "jorah",
                 "label": "Jorah Mormont",
-                "status": "dead",
-                "walker": true
+                "status": "alive",
+                "walker": false
             },
             {
                 "name": "melisandre",
                 "label": "Melisandre",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -149,8 +149,8 @@
             {
                 "name": "sandor",
                 "label": "Sandor 'The Hound' Clegane",
-                "status": "alive",
-                "walker": false
+                "status": "dead",
+                "walker": true
             },
             {
                 "name": "sansa",
@@ -162,12 +162,12 @@
                 "name": "theon",
                 "label": "Theon Greyjoy",
                 "status": "dead",
-                "walker": false
+                "walker": true
             },
             {
                 "name": "tormund",
                 "label": "Tormund Giantsbane",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -179,13 +179,13 @@
             {
                 "name": "varys",
                 "label": "Varys",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "yara",
                 "label": "Yara Greyjoy",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -203,7 +203,7 @@
             {
                 "name": "dolorous",
                 "label": "Dolorous Edd",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -227,8 +227,8 @@
             {
                 "name": "ghost",
                 "label": "Ghost (Jon's Direwolf)",
-                "status": "alive",
-                "walker": false
+                "status": "dead",
+                "walker": true
             },
             {
                 "name": "nymeria",
@@ -239,38 +239,37 @@
             {
                 "name": "drogon",
                 "label": "Drogon (Dany's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "rhaegal",
                 "label": "Rhaegal (Dany's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "viserion",
                 "label": "Viserion (Night King's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             }
-    
         ],
         "questions": [
             {
-                "name": "Jon Snow",
+                "name": "Bran Stark",
                 "label": "Who kills the Night King?",
-                "answer": "Jon"
-            },
-            {
-                "name": "Yes",
-                "label": "Is Bran the Night King?",
-                "answer": "Yes"
+                "answer": "Bran"
             },
             {
                 "name": "No",
-                "label": "Will Daenerys give birth?",
+                "label": "Is Bran the Night King?",
                 "answer": "No"
+            },
+            {
+                "name": "Yes",
+                "label": "Will Daenerys give birth?",
+                "answer": "Yes"
             },
             {
                 "name": "No",
@@ -278,9 +277,9 @@
                 "answer": "No"
             },
             {
-                "name": "No",
+                "name": "Yes",
                 "label": "Will Arya kill Cersei?",
-                "answer": "No"
+                "answer": "Yes"
             },
             {
                 "name": "Yes",
@@ -288,10 +287,10 @@
                 "answer": "Yes"
             },
             {
-                "name": "Sandor \"The Hound\" Clegane",
+                "name": "The Hound",
                 "label": "Who wins the Cleganebowl?",
                 "answer": "Hound"
             }
         ]
     }
-  }
+}

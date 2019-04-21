@@ -1,11 +1,11 @@
 {
-    "name": "Armon",
+    "name": "Saajan",
     "score": 0,
     "entry": {
         "throne": {
-            "name": "Jon Snow",
+            "name": "Throne Destroyed",
             "label": "Who ends up on the Iron Throne?",
-            "answer": "Jon"
+            "answer": "No character"
         },
         "characters": [
             {
@@ -53,7 +53,7 @@
             {
                 "name": "davos",
                 "label": "Davos Seaworth",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -78,12 +78,12 @@
                 "name": "gregor",
                 "label": "Gregor 'The Mountain' Clegane",
                 "status": "dead",
-                "walker": true
+                "walker": false
             },
             {
                 "name": "grey",
                 "label": "Grey Worm",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -102,7 +102,7 @@
                 "name": "jorah",
                 "label": "Jorah Mormont",
                 "status": "dead",
-                "walker": true
+                "walker": false
             },
             {
                 "name": "melisandre",
@@ -149,19 +149,19 @@
             {
                 "name": "sandor",
                 "label": "Sandor 'The Hound' Clegane",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "sansa",
                 "label": "Sansa Stark",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "theon",
                 "label": "Theon Greyjoy",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -185,7 +185,7 @@
             {
                 "name": "yara",
                 "label": "Yara Greyjoy",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -203,7 +203,7 @@
             {
                 "name": "dolorous",
                 "label": "Dolorous Edd",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -227,13 +227,13 @@
             {
                 "name": "ghost",
                 "label": "Ghost (Jon's Direwolf)",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "nymeria",
                 "label": "Nymeria (Arya's Direwolf)",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -245,7 +245,7 @@
             {
                 "name": "rhaegal",
                 "label": "Rhaegal (Dany's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -254,7 +254,6 @@
                 "status": "dead",
                 "walker": false
             }
-    
         ],
         "questions": [
             {
@@ -263,14 +262,14 @@
                 "answer": "Jon"
             },
             {
-                "name": "Yes",
+                "name": "No",
                 "label": "Is Bran the Night King?",
-                "answer": "Yes"
+                "answer": "No"
             },
             {
-                "name": "No",
+                "name": "Yes",
                 "label": "Will Daenerys give birth?",
-                "answer": "No"
+                "answer": "Yes"
             },
             {
                 "name": "No",
@@ -288,10 +287,10 @@
                 "answer": "Yes"
             },
             {
-                "name": "Sandor \"The Hound\" Clegane",
+                "name": "the Hound",
                 "label": "Who wins the Cleganebowl?",
                 "answer": "Hound"
             }
         ]
     }
-  }
+}

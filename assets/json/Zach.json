@@ -2,6 +2,11 @@
     "name": "Zach",
     "score": 0,
     "entry": {
+        "throne": {
+            "name": "Throne vacant",
+            "label": "Who ends up on the Iron Throne?",
+            "answer": "No character"
+        },
         "characters": [
             {
                 "name": "arya",
@@ -253,42 +258,37 @@
         ],
         "questions": [
             {
-                "name": "throne",
-                "label": "Who ends up on the Iron Throne?",
-                "answer": "No character"
-            },
-            {
-                "name": "killNight",
+                "name": "Jon",
                 "label": "Who kills the Night King?",
                 "answer": "Jon"
             },
             {
-                "name": "branKing",
+                "name": "No",
                 "label": "Is Bran the Night King?",
                 "answer": "No"
             },
             {
-                "name": "danyBirth",
+                "name": "Yes",
                 "label": "Will Daenerys give birth?",
                 "answer": "Yes"
             },
             {
-                "name": "cerseiBirth",
+                "name": "No",
                 "label": "Will Cersei give birth?",
                 "answer": "No"
             },
             {
-                "name": "aryaKillC",
+                "name": "Yes",
                 "label": "Will Arya kill Cersei?",
                 "answer": "Yes"
             },
             {
-                "name": "cleganebowl",
+                "name": "Yes",
                 "label": "Will the Cleganebowl happen?",
                 "answer": "Yes"
             },
             {
-                "name": "cbowlWinner",
+                "name": "Sandor",
                 "label": "Who wins the Cleganebowl?",
                 "answer": "Hound"
             }

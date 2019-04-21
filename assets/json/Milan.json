@@ -1,11 +1,11 @@
 {
-    "name": "Armon",
+    "name": "Milan",
     "score": 0,
     "entry": {
         "throne": {
-            "name": "Jon Snow",
+            "name": "Daenerys Targaryen",
             "label": "Who ends up on the Iron Throne?",
-            "answer": "Jon"
+            "answer": "Daenerys"
         },
         "characters": [
             {
@@ -29,13 +29,13 @@
             {
                 "name": "brienne",
                 "label": "Brienne of Tarth",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "bronn",
                 "label": "Bronn",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -47,7 +47,7 @@
             {
                 "name": "daenerys",
                 "label": "Daenerys Targaryen",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -65,7 +65,7 @@
             {
                 "name": "gendry",
                 "label": "Gendry",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -78,18 +78,18 @@
                 "name": "gregor",
                 "label": "Gregor 'The Mountain' Clegane",
                 "status": "dead",
-                "walker": true
+                "walker": false
             },
             {
                 "name": "grey",
                 "label": "Grey Worm",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "jaime",
                 "label": "Jaime Lannister",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -101,8 +101,8 @@
             {
                 "name": "jorah",
                 "label": "Jorah Mormont",
-                "status": "dead",
-                "walker": true
+                "status": "alive",
+                "walker": false
             },
             {
                 "name": "melisandre",
@@ -113,7 +113,7 @@
             {
                 "name": "missandei",
                 "label": "Missandei",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -131,7 +131,7 @@
             {
                 "name": "salladhor",
                 "label": "Salladhor Saan",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -161,13 +161,13 @@
             {
                 "name": "theon",
                 "label": "Theon Greyjoy",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "tormund",
                 "label": "Tormund Giantsbane",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -185,7 +185,7 @@
             {
                 "name": "yara",
                 "label": "Yara Greyjoy",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -203,13 +203,13 @@
             {
                 "name": "dolorous",
                 "label": "Dolorous Edd",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "hot",
                 "label": "Hot Pie",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -239,13 +239,13 @@
             {
                 "name": "drogon",
                 "label": "Drogon (Dany's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "rhaegal",
                 "label": "Rhaegal (Dany's Dragon)",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -254,7 +254,6 @@
                 "status": "dead",
                 "walker": false
             }
-    
         ],
         "questions": [
             {
@@ -263,35 +262,35 @@
                 "answer": "Jon"
             },
             {
-                "name": "Yes",
+                "name": "NO",
                 "label": "Is Bran the Night King?",
-                "answer": "Yes"
-            },
-            {
-                "name": "No",
-                "label": "Will Daenerys give birth?",
                 "answer": "No"
             },
             {
-                "name": "No",
+                "name": "YES",
+                "label": "Will Daenerys give birth?",
+                "answer": "Yes"
+            },
+            {
+                "name": "NO",
                 "label": "Will Cersei give birth?",
                 "answer": "No"
             },
             {
-                "name": "No",
+                "name": "YES",
                 "label": "Will Arya kill Cersei?",
-                "answer": "No"
-            },
-            {
-                "name": "Yes",
-                "label": "Will the Cleganebowl happen?",
                 "answer": "Yes"
             },
             {
-                "name": "Sandor \"The Hound\" Clegane",
+                "name": "cleganebowl",
+                "label": "Will the Cleganebowl happen?",
+                "answer": null
+            },
+            {
+                "name": "cbowlWinner",
                 "label": "Who wins the Cleganebowl?",
-                "answer": "Hound"
+                "answer": null
             }
         ]
     }
-  }
+}
