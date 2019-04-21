@@ -43,6 +43,7 @@ export class DetailComponent implements OnInit {
   wrongWW: string[] = [];
   rightQ: string[] = [];
   wrongQ: string[] = [];
+  isThroneRight : boolean;
 
   constructor(private route: ActivatedRoute, private data: DataService) { 
     this.route.params.subscribe( params => this.user = params.id );
@@ -69,7 +70,15 @@ export class DetailComponent implements OnInit {
     let curQues : Question[] = entry.questions;
     let ansChars : Character[] = this.answers[week].characters;
     let ansQues : Question[] = this.answers[week].questions;
+    let ansThrone : Question = this.answers[week].throne;
     let total : number = 0;
+
+    if(entry.throne.answer === ansThrone.answer){
+      this.isThroneRight = true;
+      total += 5;
+    } else {
+      this.isThroneRight = false;
+    }
 
     for(let i=0; i < ansChars.length; i++){
       if(ansChars[i].status === curChars[i].status){
@@ -93,9 +102,10 @@ export class DetailComponent implements OnInit {
     for(let i=0; i < ansQues.length; i++){
       if(ansQues[i].answer === curQues[i].answer){
         total += 1;
-        this.rightQ.push(curQues[i].label + " - " + curQues[i].answer);
-      } else {
-        this.wrongQ.push(curQues[i].label + " - " + curQues[i].answer);
+        this.rightQ.push(curQues[i].label + " - " + curQues[i].name);
+
+      } else if(null != curQues[i].answer){
+        this.wrongQ.push(curQues[i].label + " - " + curQues[i].name);
       }
     }
     return total;

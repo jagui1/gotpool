@@ -1,0 +1,5037 @@
+[
+    {
+        "name": "Aneil",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne Destroyed or Throne Vacant",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Bran",
+                    "label": "Who kills the Night King?",
+                    "answer": "Bran"
+                },
+                {
+                    "name": "No",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Armon",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Jon Snow",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Jon"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+        
+            ],
+            "questions": [
+                {
+                    "name": "Jon Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Sandor \"The Hound\" Clegane",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Cory",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne Destroyed or Throne Vacant",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Samwell",
+                    "label": "Who kills the Night King?",
+                    "answer": "Samwell"
+                },
+                {
+                    "name": "Nah",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Sort of",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "No"
+                },
+                {
+                    "name": "both lose in the end",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Neither"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Garry",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne Destroyed or Throne Vacant",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "killNight",
+                    "label": "Who kills the Night King?",
+                    "answer": null
+                },
+                {
+                    "name": "branKing",
+                    "label": "Is Bran the Night King?",
+                    "answer": null
+                },
+                {
+                    "name": "danyBirth",
+                    "label": "Will Daenerys give birth?",
+                    "answer": null
+                },
+                {
+                    "name": "cerseiBirth",
+                    "label": "Will Cersei give birth?",
+                    "answer": null
+                },
+                {
+                    "name": "aryaKillC",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": null
+                },
+                {
+                    "name": "cleganebowl",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": null
+                },
+                {
+                    "name": "cbowlWinner",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jai",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne gets destroyed",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Bran Stark",
+                    "label": "Who kills the Night King?",
+                    "answer": "Bran"
+                },
+                {
+                    "name": "No",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "The Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jean",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Gendry",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Gendry"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": null,
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": null,
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Brienne of Tarth",
+                    "label": "Who kills the Night King?",
+                    "answer": "Brienne"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "The Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jeremy",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne Destroyed or Throne Vacant",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+        
+            ],
+            "questions": [
+                {
+                    "name": "Drogon",
+                    "label": "Who kills the Night King?",
+                    "answer": "Drogon"
+                },
+                {
+                    "name": "No",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+     {
+        "name": "Justin",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Tyrion Lannister",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Tyrion"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Jon Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kushi",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Daenerys Targaryen",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Daenerys"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Jon Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "no",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "The Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Milan",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Daenerys Targaryen",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Daenerys"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Jon Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "NO",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "YES",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "NO",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "YES",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "cleganebowl",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": null
+                },
+                {
+                    "name": "cbowlWinner",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Nazia-Siraj",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Jon Snow",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Jon"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Jon",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Cersei give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "The Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Priya",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne DESTROYED",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Daenerys",
+                    "label": "Who kills the Night King?",
+                    "answer": "Daenerys"
+                },
+                {
+                    "name": "Hell yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "yep",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "nah",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "she better",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "cleganebowl",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": null
+                },
+                {
+                    "name": "cbowlWinner",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": null
+                }
+            ]
+        }
+    },
+    {
+        "name": "Saajan",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne Destroyed",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Jon Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "No",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "the Hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sunny",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": null
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "John Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "no that is stupid as fuck",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "no",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "the hound wins",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Suraj",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Sansa Stark",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Sansa"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Rhaegal",
+                    "label": "Who kills the Night King?",
+                    "answer": "Rhaegal"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Is Bran the Night King?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "no",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "no",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "the hound",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Throne vacant",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "No character"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "dead",
+                    "walker": false
+                }
+        
+            ],
+            "questions": [
+                {
+                    "name": "Jon",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "No",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "Sandor",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": "Hound"
+                }
+            ]
+        }
+      },
+      {
+        "name": "Zack-Minh",
+        "score": 0,
+        "entry": {
+            "throne": {
+                "name": "Tyrion Lannister",
+                "label": "Who ends up on the Iron Throne?",
+                "answer": "Tyrion"
+            },
+            "characters": [
+                {
+                    "name": "arya",
+                    "label": "Arya Stark",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "beric",
+                    "label": "Beric Dondarrion",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bran",
+                    "label": "Bran Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "brienne",
+                    "label": "Brienne of Tarth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "bronn",
+                    "label": "Bronn",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "cersei",
+                    "label": "Cersei Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daenerys",
+                    "label": "Daenerys Targaryen",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "davos",
+                    "label": "Davos Seaworth",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "euron",
+                    "label": "Euron Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "gendry",
+                    "label": "Gendry",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gilly",
+                    "label": "Gilly",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "gregor",
+                    "label": "Gregor 'The Mountain' Clegane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "grey",
+                    "label": "Grey Worm",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaime",
+                    "label": "Jaime Lannister",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jon",
+                    "label": "Jon Snow",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jorah",
+                    "label": "Jorah Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "melisandre",
+                    "label": "Melisandre",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "missandei",
+                    "label": "Missandei",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "night",
+                    "label": "Night King",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "podrick",
+                    "label": "Podrick Payne",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "salladhor",
+                    "label": "Salladhor Saan",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sam",
+                    "label": "Sam (Gilly's Baby",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "samwell",
+                    "label": "Samwell Tarley",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "sandor",
+                    "label": "Sandor 'The Hound' Clegane",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "sansa",
+                    "label": "Sansa Stark",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "theon",
+                    "label": "Theon Greyjoy",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "tormund",
+                    "label": "Tormund Giantsbane",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "tyrion",
+                    "label": "Tyrion Lannister",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "varys",
+                    "label": "Varys",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "yara",
+                    "label": "Yara Greyjoy",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "lyanna",
+                    "label": "Lyanna Mormont",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "qyburn",
+                    "label": "Qyburn",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "dolorous",
+                    "label": "Dolorous Edd",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "hot",
+                    "label": "Hot Pie",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "jaquen",
+                    "label": "Jaquen H'ghar",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "daario",
+                    "label": "Daario Naharis",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "ghost",
+                    "label": "Ghost (Jon's Direwolf)",
+                    "status": "dead",
+                    "walker": true
+                },
+                {
+                    "name": "nymeria",
+                    "label": "Nymeria (Arya's Direwolf)",
+                    "status": "dead",
+                    "walker": false
+                },
+                {
+                    "name": "drogon",
+                    "label": "Drogon (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "rhaegal",
+                    "label": "Rhaegal (Dany's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                },
+                {
+                    "name": "viserion",
+                    "label": "Viserion (Night King's Dragon)",
+                    "status": "alive",
+                    "walker": false
+                }
+            ],
+            "questions": [
+                {
+                    "name": "Jon Snow",
+                    "label": "Who kills the Night King?",
+                    "answer": "Jon"
+                },
+                {
+                    "name": "No",
+                    "label": "Is Bran the Night King?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yes",
+                    "label": "Will Daenerys give birth?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "No",
+                    "label": "Will Cersei give birth?",
+                    "answer": "No"
+                },
+                {
+                    "name": "Yeah",
+                    "label": "Will Arya kill Cersei?",
+                    "answer": "Yes"
+                },
+                {
+                    "name": "NO",
+                    "label": "Will the Cleganebowl happen?",
+                    "answer": "No"
+                },
+                {
+                    "name": "cbowlWinner",
+                    "label": "Who wins the Cleganebowl?",
+                    "answer": null
+                }
+            ]
+        }
+    }
+]

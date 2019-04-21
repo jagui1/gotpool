@@ -21,9 +21,11 @@ export class ScoreboardComponent implements OnInit {
   constructor(private data: DataService) { }
 
   ngOnInit() {
-    this.week = 1
     this.data.getAnswers().subscribe(
-      data => this.answers = data
+      res => {
+        this.answers = res;
+        this.week = this.answers.length - 1;
+      }
     );
 
     this.data.getUsers().subscribe(
@@ -42,7 +44,12 @@ export class ScoreboardComponent implements OnInit {
     let curQues : Question[] = entry.questions;
     let ansChars : Character[] = this.answers[week].characters;
     let ansQues : Question[] = this.answers[week].questions;
+    let ansThrone : Question = this.answers[week].throne;
     let total : number = 0;
+
+    if(entry.throne.answer === ansThrone.answer){
+      total += 5;
+    }
 
     for(let i=0; i < ansChars.length; i++){
       if(ansChars[i].status === curChars[i].status){

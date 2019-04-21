@@ -9,8 +9,8 @@ import { HttpClient } from '@angular/common/http';
 
 export class DataService {
 
-  private _entriesUrl = './assets/json/entries.json';
-  private _answersUrl = './assets/json/answers.json';
+  private _entriesUrl = './assets/json/_entries.json';
+  private _answersUrl = './assets/json/_answers.json';
   private _userUrlPre = './assets/json/'
   private _userUrlPost = '.json'
 
