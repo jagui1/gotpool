@@ -1,11 +1,11 @@
 {
-    "name": "Kushi",
+    "name": "Nilay",
     "score": 0,
     "entry": {
         "throne": {
-            "name": "Daenerys Targaryen",
+            "name": "no one will take it",
             "label": "Who ends up on the Iron Throne?",
-            "answer": "Daenerys"
+            "answer": "No character"
         },
         "characters": [
             {
@@ -29,13 +29,13 @@
             {
                 "name": "brienne",
                 "label": "Brienne of Tarth",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "bronn",
                 "label": "Bronn",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -47,7 +47,7 @@
             {
                 "name": "daenerys",
                 "label": "Daenerys Targaryen",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -95,13 +95,13 @@
             {
                 "name": "jon",
                 "label": "Jon Snow",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "jorah",
                 "label": "Jorah Mormont",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -173,7 +173,7 @@
             {
                 "name": "tyrion",
                 "label": "Tyrion Lannister",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -197,7 +197,7 @@
             {
                 "name": "qyburn",
                 "label": "Qyburn",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -227,7 +227,7 @@
             {
                 "name": "ghost",
                 "label": "Ghost (Jon's Direwolf)",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -245,7 +245,7 @@
             {
                 "name": "rhaegal",
                 "label": "Rhaegal (Dany's Dragon)",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -262,9 +262,9 @@
                 "answer": "Jon"
             },
             {
-                "name": "yes",
+                "name": "no",
                 "label": "Is Bran the Night King?",
-                "answer": "Yes"
+                "answer": "No"
             },
             {
                 "name": "yes",
@@ -277,9 +277,9 @@
                 "answer": "No"
             },
             {
-                "name": "yes",
+                "name": "no",
                 "label": "Will Arya kill Cersei?",
-                "answer": "Yes"
+                "answer": "No"
             },
             {
                 "name": "yes",
@@ -287,7 +287,7 @@
                 "answer": "Yes"
             },
             {
-                "name": "The Hound",
+                "name": "Hound",
                 "label": "Who wins the Cleganebowl?",
                 "answer": "Hound"
             }

@@ -1,11 +1,11 @@
 {
-    "name": "Jean",
+    "name": "Khushi",
     "score": 0,
     "entry": {
         "throne": {
-            "name": "Gendry",
+            "name": "Daenerys Targaryen",
             "label": "Who ends up on the Iron Throne?",
-            "answer": "Gendry"
+            "answer": "Daenerys"
         },
         "characters": [
             {
@@ -23,7 +23,7 @@
             {
                 "name": "bran",
                 "label": "Bran Stark",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -35,7 +35,7 @@
             {
                 "name": "bronn",
                 "label": "Bronn",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -71,7 +71,7 @@
             {
                 "name": "gilly",
                 "label": "Gilly",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -95,13 +95,13 @@
             {
                 "name": "jon",
                 "label": "Jon Snow",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
                 "name": "jorah",
                 "label": "Jorah Mormont",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -125,13 +125,13 @@
             {
                 "name": "podrick",
                 "label": "Podrick Payne",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "salladhor",
                 "label": "Salladhor Saan",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -149,7 +149,7 @@
             {
                 "name": "sandor",
                 "label": "Sandor 'The Hound' Clegane",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -161,7 +161,7 @@
             {
                 "name": "theon",
                 "label": "Theon Greyjoy",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -173,7 +173,7 @@
             {
                 "name": "tyrion",
                 "label": "Tyrion Lannister",
-                "status": "alive",
+                "status": "dead",
                 "walker": false
             },
             {
@@ -197,19 +197,19 @@
             {
                 "name": "qyburn",
                 "label": "Qyburn",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "dolorous",
                 "label": "Dolorous Edd",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
                 "name": "hot",
                 "label": "Hot Pie",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -221,7 +221,7 @@
             {
                 "name": "daario",
                 "label": "Daario Naharis",
-                "status": "dead",
+                "status": "alive",
                 "walker": false
             },
             {
@@ -257,32 +257,32 @@
         ],
         "questions": [
             {
-                "name": "Brienne of Tarth",
+                "name": "Jon Snow",
                 "label": "Who kills the Night King?",
-                "answer": "Brienne"
+                "answer": "Jon"
             },
             {
-                "name": "Yes",
+                "name": "yes",
                 "label": "Is Bran the Night King?",
                 "answer": "Yes"
             },
             {
-                "name": "No",
+                "name": "yes",
                 "label": "Will Daenerys give birth?",
-                "answer": "No"
+                "answer": "Yes"
             },
             {
-                "name": "No",
+                "name": "no",
                 "label": "Will Cersei give birth?",
                 "answer": "No"
             },
             {
-                "name": "No",
+                "name": "yes",
                 "label": "Will Arya kill Cersei?",
-                "answer": "No"
+                "answer": "Yes"
             },
             {
-                "name": "Yes",
+                "name": "yes",
                 "label": "Will the Cleganebowl happen?",
                 "answer": "Yes"
             },

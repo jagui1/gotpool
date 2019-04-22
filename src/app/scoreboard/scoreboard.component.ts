@@ -36,7 +36,6 @@ export class ScoreboardComponent implements OnInit {
         }
       }
     )
-    
   }
 
   calcScore(entry: Entry, week: number) : number{

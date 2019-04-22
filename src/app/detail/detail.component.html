@@ -16,6 +16,29 @@
     </ul>
   </div>
 
+  <div *ngIf='rightQ.length > 0'>
+      <ul [@listStagger]="rightQ">
+        <li class="label">
+            <h2>Correctly Answered Questions (+1)</h2>
+        </li>
+        <li *ngFor="let question of rightQ">
+          <p class="correct">{{ question }}</p>
+        </li>
+      </ul> 
+    </div>
+  
+    <div *ngIf='wrongQ.length > 0'>
+      <ul [@listStagger]="wrongQ">
+        <li class="label">
+            <h2>Incorrectly Answered Questions</h2>
+        </li>
+        <li *ngFor="let question of wrongQ">
+          <p class="incorrect">{{ question }}</p>
+        </li>
+      </ul> 
+    </div>
+  </div>
+
   <div *ngIf='rightDOA.length > 0'>
     <ul [@listStagger]="rightDOA">
       <li class="label">
@@ -59,28 +82,5 @@
       </li>
     </ul> 
   </div>
-
-  <div *ngIf='rightQ.length > 0'>
-    <ul [@listStagger]="rightQ">
-      <li class="label">
-          <h2>Correctly Answered Questions (+1)</h2>
-      </li>
-      <li *ngFor="let question of rightQ">
-        <p class="correct">{{ question }}</p>
-      </li>
-    </ul> 
-  </div>
-
-  <div *ngIf='wrongQ.length > 0'>
-    <ul [@listStagger]="wrongQ">
-      <li class="label">
-          <h2>Incorrectly Answered Questions</h2>
-      </li>
-      <li *ngFor="let question of wrongQ">
-        <p class="incorrect">{{ question }}</p>
-      </li>
-    </ul> 
-  </div>
-</div>
 
 
