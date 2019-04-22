@@ -125,7 +125,7 @@
             {
                 "name": "podrick",
                 "label": "Podrick Payne",
-                "status": null,
+                "status": "dead",
                 "walker": false
             },
             {
@@ -143,7 +143,7 @@
             {
                 "name": "samwell",
                 "label": "Samwell Tarley",
-                "status": null,
+                "status": "alive",
                 "walker": false
             },
             {
