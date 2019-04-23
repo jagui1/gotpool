@@ -15,12 +15,14 @@ import { User } from '../entities/User';
 export class ScoreboardComponent implements OnInit {
 
   week: number;
+  weeks: string[];
   users: User[];
   answers: Entry[];
 
   constructor(private data: DataService) { }
 
   ngOnInit() {
+ this.weeks = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six'];
     this.data.getAnswers().subscribe(
       res => {
         this.answers = res;
@@ -71,3 +73,5 @@ export class ScoreboardComponent implements OnInit {
     return total;
   }
 }
+
+
