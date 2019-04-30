@@ -7,36 +7,23 @@
       <li class="label">
         <h2>Who ends up on the Iron Throne? (+5)</h2>  
       </li>      
-      <li *ngIf='isThroneRight === true'>
-        <p class="correct">{{ user.entry.throne.name }}</p>
+      <li>
+        <p class="{{throne.style}}">{{ throne.answer }}</p>
+        <p class="{{throne.style}}">{{ throne.final }} currently resides on the iron throne</p>
       </li>
-      <li *ngIf='isThroneRight === false'>
-          <p class="incorrect">{{ user.entry.throne.name }}</p>
-        </li>
     </ul>
   </div>
 
-  <div *ngIf='rightQ.length > 0'>
-      <ul [@listStagger]="rightQ">
+  <div *ngIf='questions.length > 0'>
+      <ul [@listStagger]="questions">
         <li class="label">
-            <h2>Correctly Answered Questions (+1)</h2>
+            <h2>Bonus Questions (+1)</h2>
         </li>
-        <li *ngFor="let question of rightQ">
-          <p class="correct">{{ question }}</p>
+        <li *ngFor="let question of questions">
+          <p class="{{question.style}}">{{ question.answer }}</p>
+          <p class="{{question.style}}">Answer - {{ question.final }}</p>
         </li>
       </ul> 
-    </div>
-  
-    <div *ngIf='wrongQ.length > 0'>
-      <ul [@listStagger]="wrongQ">
-        <li class="label">
-            <h2>Incorrectly Answered Questions</h2>
-        </li>
-        <li *ngFor="let question of wrongQ">
-          <p class="incorrect">{{ question }}</p>
-        </li>
-      </ul> 
-    </div>
   </div>
 
   <div *ngIf='rightDOA.length > 0'>

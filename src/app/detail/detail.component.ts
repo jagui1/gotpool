@@ -41,9 +41,8 @@ export class DetailComponent implements OnInit {
   wrongDOA: string[] = [];
   rightWW: string[] = [];
   wrongWW: string[] = [];
-  rightQ: string[] = [];
-  wrongQ: string[] = [];
-  isThroneRight : boolean;
+  questions: Object[] = [];
+  throne: Object;
 
   constructor(private route: ActivatedRoute, private data: DataService) { 
     this.route.params.subscribe( params => this.user = params.id );
@@ -74,10 +73,18 @@ export class DetailComponent implements OnInit {
     let total : number = 0;
 
     if(entry.throne.answer === ansThrone.answer){
-      this.isThroneRight = true;
+      this.throne = {
+        "style": "correct",
+        "answer": this.user.entry.throne.name,
+        "final": ansThrone.name
+      }
       total += 5;
     } else {
-      this.isThroneRight = false;
+      this.throne = {
+        "style": "incorrect",
+        "answer": this.user.entry.throne.name,
+        "final": ansThrone.name
+      }
     }
 
     for(let i=0; i < ansChars.length; i++){
@@ -102,10 +109,30 @@ export class DetailComponent implements OnInit {
     for(let i=0; i < ansQues.length; i++){
       if(ansQues[i].answer === curQues[i].answer){
         total += 1;
-        this.rightQ.push(curQues[i].label + " - " + curQues[i].name);
+        this.questions.push(
+          { 
+            "answer": curQues[i].label + " - " + curQues[i].name,
+            "final": ansQues[i].answer,
+            "style": "correct"
+          }
+        );
 
-      } else if(null != curQues[i].answer){
-        this.wrongQ.push(curQues[i].label + " - " + curQues[i].name);
+      } else if(null != curQues[i].answer && "unanswered" != ansQues[i].answer){
+        this.questions.push(
+          {
+            "answer": curQues[i].label + " - " + curQues[i].name,
+            "final": ansQues[i].answer,
+            "style": "incorrect"
+          }
+          );
+      } else {
+        this.questions.push(
+          {
+            "answer": curQues[i].label + " - " + curQues[i].name,
+            "final": ansQues[i].answer,
+            "style": "unanswered"
+          }
+        );
       }
     }
     return total;
