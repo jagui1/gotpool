@@ -7,6 +7,8 @@ import { ScoreboardComponent } from './scoreboard/scoreboard.component';
 import { DetailComponent } from './detail/detail.component';
 import { MenuComponent } from './menu/menu.component';
 import { TableModule } from 'primeng/table';
+import { FormsModule }   from '@angular/forms';
+import { DropdownModule } from 'primeng/dropdown';
 
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -23,7 +25,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     AppRoutingModule,
     HttpClientModule,
     BrowserAnimationsModule,
-    TableModule
+    TableModule,
+    DropdownModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

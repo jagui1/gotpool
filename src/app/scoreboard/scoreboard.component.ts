@@ -2,10 +2,13 @@ import { Component, OnInit } from '@angular/core';
 import { Entry } from '../entities/Entry';
 import { DataService } from '../data.service';
 import { Observable } from 'rxjs';
-import {TableModule} from 'primeng/table';
+import { TableModule } from 'primeng/table';
 import { Character } from '../entities/Character';
 import { Question } from '../entities/Question';
 import { User } from '../entities/User';
+import {DropdownModule} from 'primeng/dropdown';
+import { FormsModule }   from '@angular/forms';
+
 
 @Component({
   selector: 'app-scoreboard',
@@ -18,11 +21,12 @@ export class ScoreboardComponent implements OnInit {
   weeks: string[];
   users: User[];
   answers: Entry[];
+  selectedWeek: string;
 
   constructor(private data: DataService) { }
 
   ngOnInit() {
- this.weeks = ['', 'One', 'Two', 'Three', 'Four', 'Five', 'Six'];
+    this.weeks = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six'];
     this.data.getAnswers().subscribe(
       res => {
         this.answers = res;
@@ -34,6 +38,9 @@ export class ScoreboardComponent implements OnInit {
       data => {
         this.users = data;
         for(let i=0; i<this.users.length; i++){
+          for(let j=0; j<this.answers.length; j++){
+            this.users[i].scores.push(this.calcScore(this.users[i].entry, j));
+          }
           this.users[i].score = this.calcScore(this.users[i].entry, this.week);
         }
       }

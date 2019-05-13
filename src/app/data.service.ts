@@ -23,8 +23,4 @@ export class DataService {
   getAnswers() {
     return this.http.get<Entry[]>(this._answersUrl);
   }
-
-  getUser(nameUser){
-    return this.http.get<User>(this._userUrlPre + nameUser + this._userUrlPost);
-  }
 }

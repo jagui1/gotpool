@@ -36,6 +36,7 @@ export class DetailComponent implements OnInit {
 
   week: number;
   user: User;
+  name: string;
   answers: Entry[];
   rightDOA: string[] = [];
   wrongDOA: string[] = [];
@@ -45,7 +46,7 @@ export class DetailComponent implements OnInit {
   throne: Object;
 
   constructor(private route: ActivatedRoute, private data: DataService) { 
-    this.route.params.subscribe( params => this.user = params.id );
+    this.route.params.subscribe( params => this.name = params.id );
   }
 
   ngOnInit() {
@@ -56,9 +57,12 @@ export class DetailComponent implements OnInit {
       }
       
     );
-    this.data.getUser(this.user).subscribe(
+
+    this.data.getUsers().subscribe(
       res => {
-        this.user = res
+        let tmp = res.find(tmp => tmp.name === this.name);
+        this.user = tmp;
+
         this.user.score = this.calcScoreVerbose(this.user.entry, this.week);
       } 
     );
@@ -70,6 +74,11 @@ export class DetailComponent implements OnInit {
     let ansChars : Character[] = this.answers[week].characters;
     let ansQues : Question[] = this.answers[week].questions;
     let ansThrone : Question = this.answers[week].throne;
+    this.rightDOA = [];
+    this.wrongDOA = [];
+    this.rightWW = [];
+    this.wrongWW = [];
+    this.questions = [];
     let total : number = 0;
 
     if(entry.throne.answer === ansThrone.answer){

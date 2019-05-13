@@ -1,5 +1,7 @@
 <p-table [value]="users" sortField="score" sortOrder="-1">
     <ng-template pTemplate="caption">
+        <!-- <p-dropdown [options]="weeks" [(ngModel)]="selectedWeek" placeholder="{{week}}" [showClear]="true"></p-dropdown>         
+        <p>Week {{ selectedWeek }}</p> -->
         <p>Week {{ weeks[week] }}</p>
     </ng-template>
     <ng-template pTemplate="colgroup">
@@ -18,13 +20,15 @@
     </ng-template>
     <ng-template pTemplate="body" let-user>
         <tr class="body">
-            <td><a routerLink="/details/{{ user.name }}">{{ user.name }}</a><br />    
-                <i *ngIf='user.score > calcScore(user.entry, week-1)' class="material-icons green">trending_up</i>
-                <i *ngIf='user.score === calcScore(user.entry, week-1)' class="material-icons">trending_flat</i>
-                <i *ngIf='user.score < calcScore(user.entry, week-1)' class="material-icons red">trending_down</i>    
+            <td>
+                <a routerLink="/details/{{ user.name }}">{{ user.name }}</a>
+                <br />    
+                <i *ngIf='user.scores[week] > user.scores[week-1]' class="material-icons green">trending_up</i>
+                <i *ngIf='user.scores[week] === user.scores[week-1]' class="material-icons">trending_flat</i>
+                <i *ngIf='user.scores[week] < user.scores[week-1]' class="material-icons red">trending_down</i>    
             </td>
             <td>{{ user.score }}</td>
-            <td>{{ calcScore(user.entry, week-1)}}</td>
+            <td>{{ user.scores[week-1] }}</td>
         </tr>
     </ng-template>
 </p-table>
