@@ -2,6 +2,7 @@
     {
         "name": "Aneil",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne Destroyed or Throne Vacant",
@@ -298,6 +299,7 @@
     {
         "name": "Armon",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Jon Snow",
@@ -551,7 +553,6 @@
                     "status": "dead",
                     "walker": false
                 }
-        
             ],
             "questions": [
                 {
@@ -595,6 +596,7 @@
     {
         "name": "Cory",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne Destroyed or Throne Vacant",
@@ -891,6 +893,7 @@
     {
         "name": "Garry",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne Destroyed or Throne Vacant",
@@ -1187,6 +1190,7 @@
     {
         "name": "Jai",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne gets destroyed",
@@ -1483,6 +1487,7 @@
     {
         "name": "Jean",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Gendry",
@@ -1779,6 +1784,7 @@
     {
         "name": "Jeremy",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne Destroyed or Throne Vacant",
@@ -2032,7 +2038,6 @@
                     "status": "dead",
                     "walker": false
                 }
-        
             ],
             "questions": [
                 {
@@ -2073,9 +2078,10 @@
             ]
         }
     },
-     {
+    {
         "name": "Justin",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Tyrion Lannister",
@@ -2372,6 +2378,7 @@
     {
         "name": "Khushi",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Daenerys Targaryen",
@@ -2668,6 +2675,7 @@
     {
         "name": "Milan",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Daenerys Targaryen",
@@ -2964,6 +2972,7 @@
     {
         "name": "Nazia-Siraj",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Jon Snow",
@@ -3260,6 +3269,7 @@
     {
         "name": "Nilay",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "no one will take it",
@@ -3556,6 +3566,7 @@
     {
         "name": "Priya",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne DESTROYED",
@@ -3852,6 +3863,7 @@
     {
         "name": "Saajan",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne Destroyed",
@@ -4148,6 +4160,7 @@
     {
         "name": "Sunny",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "",
@@ -4444,6 +4457,7 @@
     {
         "name": "Suraj",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Sansa Stark",
@@ -4740,6 +4754,7 @@
     {
         "name": "Yanik",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne Destroyed or Throne Vacant",
@@ -5036,6 +5051,7 @@
     {
         "name": "Zach",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Throne vacant",
@@ -5289,7 +5305,6 @@
                     "status": "dead",
                     "walker": false
                 }
-        
             ],
             "questions": [
                 {
@@ -5329,10 +5344,11 @@
                 }
             ]
         }
-      },
-      {
+    },
+    {
         "name": "Zack-Minh",
         "score": 0,
+        "scores": [],
         "entry": {
             "throne": {
                 "name": "Tyrion Lannister",
