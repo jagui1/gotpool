@@ -257,37 +257,37 @@
         ],
         "questions": [
             {
-                "name": "killNight",
+                "name": "",
                 "label": "Who kills the Night King?",
                 "answer": null
             },
             {
-                "name": "branKing",
+                "name": "",
                 "label": "Is Bran the Night King?",
                 "answer": null
             },
             {
-                "name": "danyBirth",
+                "name": "",
                 "label": "Will Daenerys give birth?",
                 "answer": null
             },
             {
-                "name": "cerseiBirth",
+                "name": "",
                 "label": "Will Cersei give birth?",
                 "answer": null
             },
             {
-                "name": "aryaKillC",
+                "name": "",
                 "label": "Will Arya kill Cersei?",
                 "answer": null
             },
             {
-                "name": "cleganebowl",
+                "name": "",
                 "label": "Will the Cleganebowl happen?",
                 "answer": null
             },
             {
-                "name": "cbowlWinner",
+                "name": "",
                 "label": "Who wins the Cleganebowl?",
                 "answer": null
             }
