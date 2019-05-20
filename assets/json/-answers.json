@@ -1,7 +1,7 @@
 [
     {
         "throne": {
-            "name": "Cersei Lannister",
+            "name": "Cersei Lannister currently resides",
             "label": "Who ends up on the Iron Throne?",
             "answer": "Cersei"
         },
@@ -293,7 +293,7 @@
     },
     {
         "throne": {
-            "name": "Cersei Lannister",
+            "name": "Cersei Lannister currently resides",
             "label": "Who ends up on the Iron Throne?",
             "answer": "Cersei"
         },
@@ -585,7 +585,7 @@
     },
     {
         "throne": {
-            "name": "Cersei Lannister",
+            "name": "Cersei Lannister currently resides",
             "label": "Who ends up on the Iron Throne?",
             "answer": "Cersei"
         },
@@ -877,7 +877,7 @@
     },
     {
         "throne": {
-            "name": "Cersei Lannister",
+            "name": "Cersei Lannister currently resides",
             "label": "Who ends up on the Iron Throne?",
             "answer": "Cersei"
         },
@@ -1169,7 +1169,7 @@
     },
     {
         "throne": {
-            "name": "Cersei Lannister",
+            "name": "Cersei Lannister currently resides",
             "label": "Who ends up on the Iron Throne?",
             "answer": "Cersei"
         },
@@ -1461,7 +1461,7 @@
     },
     {
         "throne": {
-            "name": "Daenerys Targaryen",
+            "name": "Daenerys Targaryen currently resides",
             "label": "Who ends up on the Iron Throne?",
             "answer": "daenerys"
         },
@@ -1753,7 +1753,7 @@
     },
     {
         "throne": {
-            "name": "Throne Destroyed",
+            "name": "Throne was destroyed",
             "label": "Who ends up on the Iron Throne?",
             "answer": "No character"
         },
